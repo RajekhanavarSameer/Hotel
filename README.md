@@ -38,7 +38,3 @@ For any questions or issues, please contact [your email here].
 ## Contributing
 
 Feel free to contribute by submitting issues or pull requests. Your input is highly appreciated.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
